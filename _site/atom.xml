@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>夜</title>
+ <link href="http://jzdeveloper.github.io/atom.xml" rel="self"/>
+ <link href="http://jzdeveloper.github.io/"/>
+ <updated>2014-09-29T21:31:13+08:00</updated>
+ <id>http://jzdeveloper.github.io</id>
+ <author>
+   <name>itwarcraft</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>搭建博客系统</title>
+   <link href="http://jzdeveloper.github.io/2014/09/29/start/"/>
+   <updated>2014-09-29T00:00:00+08:00</updated>
+   <id>http://jzdeveloper.github.io/2014/09/29/start</id>
+   <content type="html">&lt;p&gt;开始使用jekyll在github上搭建博客系统。以后博客都会保存到这里。&lt;/p&gt;
+
+&lt;hr&gt;
+</content>
+ </entry>
+ 
+
+</feed>

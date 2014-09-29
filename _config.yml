@@ -1,0 +1,43 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            夜
+tagline:          '软件开发'
+description:      '软件开发，兴趣广泛，熟悉JAVA、C#、nodejs、golang等。'
+url:              http://jzdeveloper.github.io
+baseurl:          /
+
+author:
+  name:           'itwarcraft'
+  url:            https://github.com/itwarcraft
+
+paginate:         5
+
+# Collections
+#collections:
+#  projects:
+#    output: true
+#    permalink: /projects/:path/
+#    title: projects
+
+# Sass
+#sass:
+#  sass_dir: _sass
+#  style: compressed
+
+# Custom vars
+version:          3.0.0
+
+github:
+  repo:           https://github.com/itwarcraft/itwarcraft.github.io
+
+typekit:
+  id:             ixi5eyq
+
+ua:
+  id:             UA-4548059-7

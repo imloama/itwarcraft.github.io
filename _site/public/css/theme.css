@@ -1,0 +1,37 @@
+/**自定义的css*/
+#logo{
+  height:100px;
+  width:100px;
+  margin-left:10px;
+  border-radius:50px;
+}
+.copyright{
+  display: block;
+}
+.lead{
+	font-size:14px;
+}
+
+/**首页文章标题*/
+.div-post{
+  width: 100%;
+  line-height: 40px;
+  height: 40px;
+}
+.div-post-title{
+  width: 80%;
+  float: left;
+}
+
+.div-post-date{
+  width: 20%;
+  text-align: right;
+  float: right;
+}
+.div-post-content{
+  margin-top: 30px;
+}
+hr{
+  height: 1px;
+  color: #EEE;
+}
